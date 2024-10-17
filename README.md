@@ -18,5 +18,5 @@ I have gathered here some of the schoolwork I have done during my math studies. 
 * There are also two files in this folder, one .mlx file and one .pdf. 
 * This assignment is also in Swedish. 
 
-### Submit a pull request
+## Contributing
 If you'd like to contribute, please fork the repository and open a pull request to the `main` branch.
