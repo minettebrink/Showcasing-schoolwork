@@ -17,3 +17,6 @@ I have gathered here some of the schoolwork I have done during my math studies. 
 * The assignment was to calculate an integral numerically with trapezoidal rule which should be Richardson extrapolated. First, I describe how to calculate the problem and then  solve it in MATLAB.
 * There are also two files in this folder, one .mlx file and one .pdf. 
 * This assignment is also in Swedish. 
+
+### Submit a pull request
+If you'd like to contribute, please fork the repository and open a pull request to the `main` branch.
